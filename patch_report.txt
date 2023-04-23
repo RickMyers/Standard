@@ -1,0 +1,24 @@
+
+PATCH REPORT
+########################################################
+
+Matched Files: 1680
+
+The following files will be updated by this process:
+
+
+The following files are on the local manifest indicating they should be IGNORED in the patch:
+
+00001) index.html
+00002) app/allowed.json
+00003) app/Humble.local.manifest
+00004) app/Constants.php
+
+The following files are on the local manifest indicating they should be MERGED in the patch:
+
+
+The following files will be patched:
+
+
+The following files are new and will be inserted by this patch:
+

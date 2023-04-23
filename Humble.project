@@ -1,0 +1,13 @@
+{
+    "project_name": "Standard Dashboard",
+    "project_url": "http:\/\/sdb.com",
+    "factory_name": "DB",
+    "framework_url": "https:\/\/humbleprogramming.com",
+    "module": "Dashboard",
+    "namespace": "dashboard",
+    "package": "Main",
+    "landing_page": "\/dashboard\/home\/page",
+    "author": "rick@humbleprogramming.com",
+    "destination_folder": "E:\\var\\www\\Standard",
+    "serial_number": "CRXT-BUKZ-ZSLM-ZQNJ"
+}
